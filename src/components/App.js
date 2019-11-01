@@ -1,7 +1,8 @@
 import React from "react";
+import ColorPicker from "./ColorPicker/ColorPicker";
 
 const App = () => {
-  return <div>Custom ColorPicker</div>;
+  return <ColorPicker />;
 };
 
 export default App;
